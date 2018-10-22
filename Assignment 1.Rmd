@@ -1,5 +1,6 @@
 ---
 title: "Assignment 1"
+author: "Hanyang Peng"
 output:
   pdf_document: default
   html_document: default
